@@ -1,0 +1,12 @@
+{
+  "certificate": {
+    "title": "Python Workshop",
+    "issuer": "Learning Club",
+    "issued_on": "2026-10-07"
+  },
+  "recipients": [
+    {"name": "Anita Rao", "email": "anita@example.com"},
+    {"name": "Rahul Shah", "email": "rahul@example.com"},
+    {"name": "", "email": "invalid"}
+  ]
+}
